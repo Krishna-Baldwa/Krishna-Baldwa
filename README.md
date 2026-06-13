@@ -82,7 +82,7 @@ class Krishna:
 <td width="50%" valign="top">
 
 ### 🤖 AI Copilot Agent — P&G
-Architected a **Master Copilot Agent** on Microsoft Copilot Studio orchestrating 5+ specialized sub-agents across Nielsen, BHT & HHP signals into a unified conversational analytics layer. Currently live in pilot with 50+ users across 10+ brand categories.
+Architected a **Master Copilot Agent** on Microsoft Copilot Studio orchestrating 5+ specialized sub-agents across different data signals into unified conversational analytics layer. Currently live in pilot with 20+ users across 10+ brand categories.
 
 </td>
 <td width="50%" valign="top">
@@ -119,8 +119,6 @@ Owned end-to-end data pipeline: external ingestion → Databricks transformation
 
 ### 🧠 Predictive Maintenance
 Processed 1M+ rows of industrial plant data. Built models spanning DecisionTrees, RandomForest, LSTM & Logistic Regression — cutting equipment failure rate by 10% and improving prediction accuracy by 15%.
-
-`🔗` [NEUROBOT](https://github.com/Krishna-Baldwa/NEUROBOT) · [LHC-Booking](https://github.com/Krishna-Baldwa/LHC-Booking-Devcom)
 
 </td>
 </tr>
