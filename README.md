@@ -1,16 +1,16 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=220&section=header&text=Krishna%20Baldwa&fontSize=50&fontColor=e6edf3&animation=fadeIn&fontAlignY=35&desc=Builder%20%E2%80%A2%20Engineer%20%E2%80%A2%20Entrepreneur&descSize=18&descAlignY=55&descColor=8b949e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=220&section=header&text=Krishna%20Baldwa&fontSize=50&fontColor=e6edf3&animation=fadeIn&fontAlignY=35&desc=Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20AI%20Product%20Thinker&descSize=18&descAlignY=55&descColor=8b949e"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=Data+Engineer+%26+Product+Manager+%40+P%26G;IIT+Bombay+%E2%80%A2+Chemical+Eng+%2B+CS+Minor;Building+AI+agents+that+actually+ship+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&random=false&width=700&height=35&lines=Data+Engineer+%26+Product+Manager+%40+P%26G;IIT+Bombay+%E2%80%A2+Chemical+Eng+%2B+CS+Minor;Building+AI+agents+that+actually+ship+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-baldwa)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnabaldwa11@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-baldwa)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnabaldwa1101@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krishna-Baldwa)
 
 </div>
@@ -26,7 +26,7 @@ class Krishna:
         self.company    = "Procter & Gamble"
         self.education  = "B.Tech Chemical Eng (Minor: CS) — IIT Bombay"
         self.cpi        = 8.73  # Dept. Rank 5 / 140+
-        self.interests  = ["AI Agents", "Product Engineering", "Startups", "Data Systems"]
+        self.interests  = ["AI Agents", "Product Engineering", "Full-Stack Systems", "Data Platforms"]
         self.fun_fact   = "Gold Medalist 🥇 in Triathlon at IIT Bombay"
     
     def current_quest(self):
@@ -125,22 +125,23 @@ Processed 1M+ rows of industrial plant data. Built models spanning DecisionTrees
 
 ---
 
-## 🚀 Startup Journey
+## 🧪 Side Projects & Explorations
 
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│  🏭 Kriv Technologies (Co-Founder)              Dec 2023 – Apr 2024│
-│     App, web & data-services startup. 4 projects, ₹4L revenue.     │
-│                                                                     │
-│  🧪 Chemical-Industry RAG Startup (Co-Founder)  May 2024 – Apr 2025│
-│     Vertical AI for chemical R&D & compliance retrieval.            │
-│     ₹5L grant from IIT-B DSSE IDEAS Program.                       │
-│                                                                     │
-│  🧵 Loom IoT Dashboard (In Progress)                      Ongoing  │
-│     Hardware + software dashboard for textile loom monitoring.      │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│  🧪 Chemical-Industry RAG System                May 2024 – Apr 2025 │
+│     Vertical AI for chemical R&D & compliance knowledge retrieval.   │
+│     ₹5L grant from IIT-B DSSE IDEAS Program.                        │
+│                                                                      │
+│  🛠️ Kriv Technologies                           Dec 2023 – Apr 2024 │
+│     Built apps, web products & data services for commercial clients. │
+│     Shipped 4 projects end-to-end.                                   │
+│                                                                      │
+│  🧵 Loom IoT Dashboard (In Progress)                       Ongoing  │
+│     Hardware + software dashboard for textile loom monitoring.       │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
