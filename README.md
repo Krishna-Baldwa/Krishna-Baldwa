@@ -145,7 +145,7 @@ Processed 1M+ rows of industrial plant data. Built models spanning DecisionTrees
 ```
 
 ---
-
+<!--
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -160,7 +160,7 @@ Processed 1M+ rows of industrial plant data. Built models spanning DecisionTrees
 </div>
 
 ---
-
+-->
 ## 🎯 Beyond Code
 
 <div align="center">
